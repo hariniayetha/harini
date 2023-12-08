@@ -1,0 +1,22 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôË·Çþÿÿÿÿ
+w	java:S116#"bRename this field "PUBLIC_RESOURCE_AND_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œô—ð
+k
+java:S3305"PInject this field value directly into "configure", the only method that uses it.(øƒÌ®ÿÿÿÿÿ
+k
+java:S3305"PInject this field value directly into "configure", the only method that uses it.(ñ°Êƒÿÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÉÍè¿úÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(«ÿØ¼
+V	java:S1257"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ
+^
+java:S5738E"HRemove this call to a deprecated method, it has been marked for removal.(Ž®¼³
+^
+java:S5738G"HRemove this call to a deprecated method, it has been marked for removal.(ÏðÅô
+c
+java:S5738J"HRemove this call to a deprecated method, it has been marked for removal.(Åúßµûÿÿÿÿ
+c
+java:S5738K"HRemove this call to a deprecated method, it has been marked for removal.(ð‘û¹ýÿÿÿÿ
+c
+java:S5738K"HRemove this call to a deprecated method, it has been marked for removal.(ð‘û¹ýÿÿÿÿ
+L
+java:S1611S"1Remove the parentheses around the "web" parameter(­’¸¢þÿÿÿÿ

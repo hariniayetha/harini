@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôË·Çşÿÿÿÿ
+M
+java:S2387&"7"logger" is the name of a field in "GenericFilterBean".(ºÆ
+Q	java:S125."<This block of commented-out lines of code should be removed.(î³–È
+Q	java:S1259"<This block of commented-out lines of code should be removed.(¢âè¡
+M	java:S106J"9Replace this use of System.out or System.err by a logger.(ñ›ù

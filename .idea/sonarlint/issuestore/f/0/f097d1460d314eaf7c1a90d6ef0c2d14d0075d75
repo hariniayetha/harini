@@ -1,0 +1,19 @@
+
+L
+java:S2629T"7Use the built-in formatting to construct this argument.(ºÐ„
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ôË·Çþÿÿÿÿ
+R
+java:S2387*"7"logger" is the name of a field in "GenericFilterBean".(Øä“õüÿÿÿÿ
+Q	java:S125."<This block of commented-out lines of code should be removed.(ÒÐÇÉ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(îž¸ýÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(ßçê¥øÿÿÿÿ
+V
+java:S3457T"AFormat specifiers should be used instead of string concatenation.(ºÐ„
+
+S	java:S106Z"9Replace this use of System.out or System.err by a logger.(¨¶ÑÍþÿÿÿÿ
+©
+java:S1130f"Remove the declaration of thrown exception 'com.fasterxml.jackson.core.JsonProcessingException' which is a subclass of 'java.io.IOException'.(ÄÞ‡öýÿÿÿÿ
+M	java:S106m"9Replace this use of System.out or System.err by a logger.(ñ›ù
+J
+java:S1068 "/Remove this unused "userService" private field.(¶òÁÈùÿÿÿÿ
